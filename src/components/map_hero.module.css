@@ -1,0 +1,12 @@
+.footer {
+  background-image: url(//d9hhrg4mnvzow.cloudfront.net/www.caresourcer.com/care-at-home-east-london/665e22b0-all-london-care-providers.jpg);
+  height: 720px;
+  padding: 200px;
+}
+
+.cardMiddle {
+  display: block;
+  width: 542px;
+  height: 355px;
+  margin: auto
+}
